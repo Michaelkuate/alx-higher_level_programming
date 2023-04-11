@@ -8,4 +8,3 @@ const arg2 = process.argv[3];
 // use template literals (the backtick characters surrounding the string) to interpolate the values of arg1 and arg2 into the output string in the specified format
 
 console.log(`${arg1} is ${arg2}`);
-
